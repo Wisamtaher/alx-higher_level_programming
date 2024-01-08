@@ -53,5 +53,4 @@ Element 4: int
 Element 0: int
 Element 1: int
 Element 2: int
-Element 3: int
-julien@CPython:~/CPython$ 
+Element 3: int 
